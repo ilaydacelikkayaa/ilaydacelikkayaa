@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilayda Celikkaya</h1>
-<h3 align="center">🎓 I’m a third-year Computer Engineering student.</h3>
+<h3 align="center">Data Scientist | ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilaydacelikkayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ilaydacelikkayaa" /> </p>
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilaydacelikkayaa&show_icons=true&locale=en" alt="ilaydacelikkayaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilaydacelikkayaa&" alt="ilaydacelikkayaa" /></p>
-

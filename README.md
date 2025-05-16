@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ilayda Celikkaya</h1>
+<h1 align="center"> I'm Ilayda Celikkaya</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilaydacelikkayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ilaydacelikkayaa" /> </p>
 
 - 🔭 I’m currently working on **data science and machine learning**
-
+- 🎓 I’m a third-year **Computer Engineering student**.
 - 🌱 I’m currently learning **deep learning**
 
 <h3 align="left">Connect with me:</h3>
